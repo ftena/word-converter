@@ -4,7 +4,7 @@
 #include <cstring> // for errno
 #include <unistd.h> // for getopt funtion
 
-#include "WordConverter.h"
+#include <WordConverter.h>
 
 int main(int argc, char* argv[])
 {

@@ -18,13 +18,13 @@ make -j 4
 # Basic usage
 
 ```sh
-./word_converter -i <input_file> [-o <output_file>]
+./converter -i <input_file> [-o <output_file>]
 ```
 
 Example:
 
 ```sh
-./word_converter -i ../inputfile.txt -o ../outputfile.txt
+    ./converter -i ../inputfile.txt -o ../outputfile.txt
 ```
 
 # High-level guidelines about the implemented solution
